@@ -1,0 +1,5 @@
+.vscode
+ckpts
+data
+work_dirs
+*/__pycache__
