@@ -2,4 +2,4 @@
 ckpts
 data
 work_dirs
-*/__pycache__
+**/__pycache__
